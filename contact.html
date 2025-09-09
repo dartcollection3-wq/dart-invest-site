@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Apply - D-Art Collection</title>
+<meta name="description" content="Apply to invest alongside D-Art Collection. Share your details and we’ll follow up with next steps."/>
+<link rel="stylesheet" href="styles.css"/>
+<meta property="og:title" content="Apply - D-Art Collection"/>
+<meta property="og:description" content="Apply to invest alongside D-Art Collection. Share your details and we’ll follow up with next steps."/>
+<meta property="og:image" content="assets/og.jpg"/>
+<meta property="og:type" content="website"/>
+<meta name="twitter:card" content="summary_large_image"/>
+</head><body>
+
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="index.html">
+      <img src="assets/logo.png" alt="D-Art Collection logo"/>
+      <span>D-Art Collection</span>
+    </a>
+    <nav>
+      <a href="how-it-works.html">How it works</a>
+      <a href="opportunities.html">Opportunities</a><a href="investments.html">Investments</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="btn">Apply</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section">
+  <div class="wrap" style="display:grid;grid-template-columns:1fr 1fr;gap:18px">
+    <div>
+      <h1>Apply to invest</h1>
+      <p>Tell us your preferred option and amount. We’ll reach out with agreements and next steps.</p>
+      <form class="apply" id="apply-form">
+        <input name="name" placeholder="Full name" required/>
+        <input name="email" type="email" placeholder="Email" required/>
+        <input name="phone" placeholder="Phone"/>
+        <select name="option" required>
+          <option value="">Select option</option>
+          <option>Option A — 10% in 3 months</option>
+          <option>Option B — 5% guaranteed in 6 months</option>
+        </select>
+        <input name="amount" type="number" step="100" placeholder="Estimated amount (USD)" required/>
+        <textarea name="notes" rows="5" placeholder="Notes (timeline, accreditation, questions)"></textarea>
+        <button type="submit">Submit</button>
+        <p class="note">Prefer email? Write to <a href="mailto:invest@dartcollection.com">invest@dartcollection.com</a>.</p>
+      </form>
+    </div>
+    <div>
+      <h2>FAQs</h2>
+      <details open><summary>Is the 5% really guaranteed?</summary><p>The 5% option becomes guaranteed only after both parties sign final agreements that specify the guarantee mechanism (e.g., inventory pledge/reserve). Until then, this site is informational.</p></details>
+      <details><summary>Minimum amount?</summary><p>Typically $2,500 per product lot. Larger checks may secure priority allocation.</p></details>
+      <details><summary>Who can invest?</summary><p>Initially, invited individuals and qualified investors. We will expand access as we scale.</p></details>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap cols">
+    <div>
+      <h4>About</h4>
+      <p>D-Art Collection is a California furniture brand offering modern classic designs. This site presents a private invitation to explore furniture-backed investment opportunities.</p>
+    </div>
+    <div>
+      <h4>Contact</h4>
+      <p>Email: <a href="mailto:invest@dartcollection.com">invest@dartcollection.com</a><br/>Phone: <a href="tel:+15627779668">(562) 777-9668</a></p>
+    </div>
+    <div>
+      <h4>Legal</h4>
+      <p>This site is informational and not a solicitation. Returns and terms apply only if defined in executed agreements.</p>
+      <p><a href="privacy.html">Privacy</a> • <a href="terms.html">Terms</a></p>
+    </div>
+  </div>
+  <div class="wrap tiny">© 2025 D-Art Collection. All rights reserved.</div>
+</footer>
+
+<script src="app.js"></script>
+</body></html>

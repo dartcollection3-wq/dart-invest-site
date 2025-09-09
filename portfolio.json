@@ -1,0 +1,80 @@
+{
+  "as_of": "2025-09-09",
+  "cash": 12000,
+  "contributions": [
+    {
+      "date": "2025-06-15",
+      "amount": 10000
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 5000
+    },
+    {
+      "date": "2025-08-05",
+      "amount": 3000
+    }
+  ],
+  "equity_curve": [
+    {
+      "date": "2025-06-15",
+      "value": 10000
+    },
+    {
+      "date": "2025-07-01",
+      "value": 11250
+    },
+    {
+      "date": "2025-07-15",
+      "value": 12100
+    },
+    {
+      "date": "2025-08-01",
+      "value": 13400
+    },
+    {
+      "date": "2025-08-15",
+      "value": 14150
+    },
+    {
+      "date": "2025-09-01",
+      "value": 15200
+    },
+    {
+      "date": "2025-09-09",
+      "value": 15800
+    }
+  ],
+  "positions": [
+    {
+      "sku": "KAC 003",
+      "name": "Lion King Chair",
+      "units": 1,
+      "avg_cost": 10000,
+      "market_value": 10300,
+      "unrealized_pl": 300,
+      "payout_eta": "2025-12-31",
+      "option": "A"
+    },
+    {
+      "sku": "UNQ 40-17",
+      "name": "DriftWood Charging Bull Life Size Statue",
+      "units": 1,
+      "avg_cost": 10000,
+      "market_value": 10500,
+      "unrealized_pl": 500,
+      "payout_eta": "2025-12-31",
+      "option": "A"
+    },
+    {
+      "sku": "AC 25-01",
+      "name": "Rattan Capsule Chair",
+      "units": 2,
+      "avg_cost": 2500,
+      "market_value": 5200,
+      "unrealized_pl": 200,
+      "payout_eta": "2026-03-31",
+      "option": "B"
+    }
+  ]
+}

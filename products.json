@@ -1,0 +1,252 @@
+[
+  {
+    "id": "kac-003",
+    "name": "Lion King Chair",
+    "sku": "KAC 003",
+    "category": "Chair",
+    "images": [
+      "assets/lion-king-chair.jpg"
+    ],
+    "option": "Option A \u2014 10% in 3 months",
+    "raise": 10000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2025-12-30",
+    "origin": "Jepara",
+    "units": 10,
+    "landed_budget": 10000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Lion King Chair crafted in Jepara, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 9
+  },
+  {
+    "id": "unq-40-17",
+    "name": "DriftWood Charging Bull Life Size Statue",
+    "sku": "UNQ 40-17",
+    "category": "Statue",
+    "images": [
+      "assets/driftwood-bull.jpg"
+    ],
+    "option": "Option A \u2014 10% in 3 months",
+    "raise": 10000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2025-12-30",
+    "origin": "Malang",
+    "units": 20,
+    "landed_budget": 10000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "DriftWood Charging Bull Life Size Statue crafted in Malang, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 18
+  },
+  {
+    "id": "tbl-10-15",
+    "name": "Presidents Desk",
+    "sku": "TBL 10-15",
+    "category": "Desk",
+    "images": [
+      "assets/presidents-desk.jpg"
+    ],
+    "option": "Option A \u2014 10% in 3 months",
+    "raise": 10000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2025-12-30",
+    "origin": "Surabaya",
+    "units": 30,
+    "landed_budget": 10000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Presidents Desk crafted in Surabaya, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 27
+  },
+  {
+    "id": "cbn-050",
+    "name": "Big London Telephone Booth",
+    "sku": "CBN-050",
+    "category": "Cabinet",
+    "images": [
+      "assets/telephone-booth.jpg"
+    ],
+    "option": "Option A \u2014 10% in 3 months",
+    "raise": 8000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2025-12-30",
+    "origin": "Jakarta",
+    "units": 40,
+    "landed_budget": 8000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Big London Telephone Booth crafted in Jakarta, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 36
+  },
+  {
+    "id": "cbn-111-6",
+    "name": "Sheraton Wine Cabinet",
+    "sku": "CBN 111-6",
+    "category": "Cabinet",
+    "images": [
+      "assets/wine-cabinet.jpg"
+    ],
+    "option": "Option A \u2014 10% in 3 months",
+    "raise": 6000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2025-12-30",
+    "origin": "Sentul",
+    "units": 50,
+    "landed_budget": 6000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Sheraton Wine Cabinet crafted in Sentul, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 45
+  },
+  {
+    "id": "ac-25-01",
+    "name": "Rattan Capsule Chair",
+    "sku": "AC 25-01",
+    "category": "Chair",
+    "images": [
+      "assets/rattan-capsule.jpg"
+    ],
+    "option": "Option B \u2014 5% guaranteed in 6 months",
+    "raise": 5000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2026-03-30",
+    "origin": "Jepara",
+    "units": 60,
+    "landed_budget": 5000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Rattan Capsule Chair crafted in Jepara, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 54
+  },
+  {
+    "id": "ktl-601",
+    "name": "American Carved Sofa",
+    "sku": "KTL 601",
+    "category": "Sofa",
+    "images": [
+      "assets/american-sofa.jpg"
+    ],
+    "option": "Option B \u2014 5% guaranteed in 6 months",
+    "raise": 5000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2026-03-30",
+    "origin": "Malang",
+    "units": 70,
+    "landed_budget": 5000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "American Carved Sofa crafted in Malang, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 63
+  },
+  {
+    "id": "amr-001",
+    "name": "Arnolfo Solid Wood Armoire",
+    "sku": "AMR 001",
+    "category": "Armoire",
+    "images": [
+      "assets/solid-armoire.jpg"
+    ],
+    "option": "Option B \u2014 5% guaranteed in 6 months",
+    "raise": 5000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2026-03-30",
+    "origin": "Surabaya",
+    "units": 80,
+    "landed_budget": 5000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Arnolfo Solid Wood Armoire crafted in Surabaya, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 72
+  },
+  {
+    "id": "stmr",
+    "name": "Teak Steamer Lounge Chair",
+    "sku": "STMR",
+    "category": "Chair",
+    "images": [
+      "assets/teak-steamer.jpg"
+    ],
+    "option": "Option B \u2014 5% guaranteed in 6 months",
+    "raise": 5000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2026-03-30",
+    "origin": "Jakarta",
+    "units": 90,
+    "landed_budget": 5000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Teak Steamer Lounge Chair crafted in Jakarta, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 81
+  },
+  {
+    "id": "cbn-073",
+    "name": "Mahogany Storage Bookcase",
+    "sku": "CBN 073",
+    "category": "Bookcase",
+    "images": [
+      "assets/mahogany-bookcase.jpg"
+    ],
+    "option": "Option B \u2014 5% guaranteed in 6 months",
+    "raise": 3000,
+    "close_date": "2025-09-30",
+    "payout_eta": "2026-03-30",
+    "origin": "Sentul",
+    "units": 100,
+    "landed_budget": 3000,
+    "use_of_funds": "Production, freight, and logistics",
+    "safeguard": "Inventory pledge",
+    "short_description": "Mahogany Storage Bookcase crafted in Sentul, Indonesia. Premium design and detailing.",
+    "key_metrics": {
+      "target_margin": "40%",
+      "preorders": "0%",
+      "moq_status": "Planned"
+    },
+    "progress_pct": 90
+  }
+]

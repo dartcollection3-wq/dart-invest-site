@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Investments — D-Art Collection</title>
+  <meta name="description" content="Track your D‑Art Collection investments like a stock — equity curve, holdings, and upcoming payouts."/>
+  <link rel="stylesheet" href="styles.css"/>
+  <meta property="og:title" content="Investments — D‑Art Collection"/>
+  <meta property="og:description" content="Track equity, positions, and payouts."/>
+  <meta property="og:image" content="assets/og.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="index.html">
+        <img src="assets/logo.png" alt="D‑Art Collection logo"/>
+        <span>D-Art Collection</span>
+      </a>
+      <nav>
+        <a href="how-it-works.html">How it works</a>
+        <a href="opportunities.html">Opportunities</a>
+        <a href="investments.html">Investments</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Apply</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="wrap">
+      <h1>Investments</h1>
+      <p class="lead">A stock‑style dashboard of your portfolio. Replace the sample <code>data/portfolio.json</code> with your real data to go live.</p>
+
+      <div style="background:#fff;border:1px solid var(--ring);border-radius:14px;padding:12px;margin:18px 0">
+        <h2>Portfolio equity</h2>
+        <canvas id="equityChart" height="120"></canvas>
+        <div id="equityKPIs" class="kpis">
+          <div class="kpi"><div class="num" id="kpiEquity">–</div><div class="lab">Equity</div></div>
+          <div class="kpi"><div class="num" id="kpiCash">–</div><div class="lab">Cash</div></div>
+          <div class="kpi"><div class="num" id="kpiPL">–</div><div class="lab">Unrealized P/L</div></div>
+        </div>
+      </div>
+
+      <h2>Positions</h2>
+      <table class="table" id="positionsTable">
+        <tr><th>Product</th><th>SKU</th><th>Units</th><th>Avg Cost</th><th>Market Value</th><th>Unrealized P/L</th><th>Option</th><th>Payout ETA</th></tr>
+      </table>
+
+      <h2 style="margin-top:24px">Contributions</h2>
+      <table class="table" id="contribTable">
+        <tr><th>Date</th><th>Amount</th></tr>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap cols">
+      <div>
+        <h4>About</h4>
+        <p>D‑Art Collection is a California furniture brand. This dashboard is for demonstration. Replace sample data with your own.</p>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p>Email: <a href="mailto:invest@dartcollection.com">invest@dartcollection.com</a></p>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <p>All figures are illustrative. Not investment advice.</p>
+      </div>
+    </div>
+    <div class="wrap tiny">© D‑Art Collection</div>
+  </footer>
+
+  <script src="portfolio.js"></script>
+</body>
+</html>
